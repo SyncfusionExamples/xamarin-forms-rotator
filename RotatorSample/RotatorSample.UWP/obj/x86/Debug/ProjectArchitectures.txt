@@ -1,0 +1,1 @@
+D:\UG Samples\Rotator\RotatorSample\RotatorSample\RotatorSample.UWP\RotatorSample.UWP.csproj;x86

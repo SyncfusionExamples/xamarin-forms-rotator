@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+pg3FHj32rXys1qK3KTje33ujtjHa8GhkEqqV4w+VLB0cvwBHQJFwA1qHHQUmuRjFNwmhqm8wGiSKyGDpXej9w==",
+  "success": true,
+  "projectFilePath": "D:\\UG Samples\\Rotator\\RotatorSample\\RotatorSample\\RotatorSample.iOS\\RotatorSample.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JeyaKasipandi\\.nuget\\packages\\syncfusion.licensing\\19.1.0.57\\syncfusion.licensing.19.1.0.57.nupkg.sha512",
+    "C:\\Users\\JeyaKasipandi\\.nuget\\packages\\syncfusion.xamarin.core\\19.1.0.57\\syncfusion.xamarin.core.19.1.0.57.nupkg.sha512",
+    "C:\\Users\\JeyaKasipandi\\.nuget\\packages\\syncfusion.xamarin.sfrotator\\19.1.0.57\\syncfusion.xamarin.sfrotator.19.1.0.57.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\JeyaKasipandi\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+  ],
+  "logs": []
+}
