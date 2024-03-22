@@ -6,7 +6,7 @@ For know more details about Rotator: https://www.syncfusion.com/xamarin-ui-contr
 
 Rotator user guide documentation: https://help.syncfusion.com/xamarin/rotator/getting-started
 
-#   Create a Simple SfRotator
+##   Create a Simple SfRotator
 The SfRotator control is configured entirely in C# code or by using XAML markup. The following steps explain on how to create a SfRotator and configure its elements,
 
 Adding namespace for the added assemblies.
@@ -31,14 +31,14 @@ Now add the SfRotator control with a required optimal name by using the included
 </ContentPage>
 ```
 
-# Add Rotator Items
+## Add Rotator Items
 We can populate the rotator’s items by using any one of the following ways,
 
 *   Through SfRotatorItem
 
 *   Through ItemTemplate
 
-##  Through SfRotatorItem
+###  Through SfRotatorItem
 By passing the list of SfRotatorItem , we can get the view of SfRotator control. In that we can pass Images as well as Item content.
 
 The following code example illustrates to add list of Images in Rotator ,
@@ -88,7 +88,7 @@ The following code example illustrates to add list of items through ItemContent 
         }
     }
 ```
-##  Through ItemTemplate
+###  Through ItemTemplate
 ItemTemplate property of SfRotator control is used to customize the contents of SfRotator items. ItemTemplate provides common template with different data. SfRotator items can be populated with a collection of image data. This collection includes Arrays, Lists and DataTables.
 
 **[C#]**
